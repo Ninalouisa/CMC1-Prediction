@@ -1,8 +1,8 @@
-# Development of prediction models for outcome of surgery for CMC1 OA
+# Development and validation of prediction models for outcome of surgery for CMC1 OA
 
 This is the code used in: 
 
-"Using a machine learning approach to predict clinical improvement following surgery for thumb carpometacarpal osteoarthritis"
+# "Using a machine learning approach to predict clinical improvement following surgery for thumb carpometacarpal osteoarthritis"
 
 Authors: NL Loos; L Hoogendam; JS Souer; HP Slijper; ER Andrinopoulou; MW Coppieters; the Hand-Wrist Study Group‡, RW Selles
 
